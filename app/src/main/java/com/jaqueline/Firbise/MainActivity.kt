@@ -1,4 +1,4 @@
-package com.jailton.androidapptemplate
+package com.jaqueline.Firbise
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -7,7 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import com.jailton.androidapptemplate.databinding.ActivityMainBinding
+import com.jaqueline.Firbise.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

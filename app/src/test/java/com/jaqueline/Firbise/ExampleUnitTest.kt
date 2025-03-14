@@ -1,4 +1,4 @@
-package com.jailton.androidapptemplate
+package com.jaqueline.Firbise
 
 import org.junit.Test
 
